@@ -1,0 +1,17 @@
+.bar {
+  align-items: left;
+}
+.singleimg {
+  width: 250px;
+  height: 300px;
+}
+.container {
+  padding-left: 24px;
+}
+.center {
+  padding-left: 85px;
+}
+.footer {
+  padding-left: 460px;
+}
+h1 {text-align: center;}
